@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... Shell Script
 
 This account only contains bash script code
-I use bash scripts to create automatic tools for exploitation and scanners on website vulnerabilities
 <!---
 shfav/shfav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
